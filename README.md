@@ -1,1 +1,4 @@
-# Operator-System
+# Operator-System实验
+- 实验一、进程调度算法
+- 实验二、动态内存分配算法
+以上为模拟算法。
